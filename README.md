@@ -4,6 +4,7 @@
 
 # Java libraries
 - [Caffeine](https://github.com/ben-manes/caffeine)
+- [Netflix EVCache](https://github.com/netflix/evcache)
 - [Guava caches](https://github.com/google/guava/wiki/CachesExplained)
 - [ohc](https://github.com/snazy/ohc) - Java large offheap cache
 
