@@ -8,6 +8,7 @@
 - [Guava caches](https://github.com/google/guava/wiki/CachesExplained)
 - [OpenRewrite Maven POM Cache](https://github.com/openrewrite/rewrite/tree/main/rewrite-maven/src/main/java/org/openrewrite/maven/cache)
 - [ohc](https://github.com/snazy/ohc) - Java large offheap cache
+- [expiringmap](https://github.com/jhalterman/expiringmap)
 
 # Non-Java caching
 - [FusionCache](https://github.com/ZiggyCreatures/FusionCache)
