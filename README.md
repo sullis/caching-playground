@@ -18,7 +18,7 @@
  
 # Articles
 - [Cache me if you can](https://systemdesignclassroom.substack.com/p/cache-me-if-you-can)
-- [Design of a modern cache](https://highscalability.com/design-of-a-modern-cache/)
+- [Design of a modern cache](https://highscalability.com/design-of-a-modern-cache/) - Ben Manes / Caffeine
 - [In-Memory vs. Distributed Caching: A Comparative Look with Caffeine](https://medium.com/@baraklagziel/in-memory-vs-distributed-caching-a-comparative-look-with-caffeine-15cedf6038c6)
 - [Docker layer caching in GitHub Actions](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
 - [How to Implement LRU Cache in Java](https://www.baeldung.com/java-lru-cache)
