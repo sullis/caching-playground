@@ -27,4 +27,6 @@
 
 # Videos
 - [Caching Pitfalls](https://www.youtube.com/watch?v=wh98s0XhMmQ) - ByteByteGo
+- [Caching is hard](https://www.youtube.com/watch?v=jIA7z1gxuc8) - Hussein Nasser
+
 
