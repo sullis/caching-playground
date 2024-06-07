@@ -29,6 +29,7 @@
 # Videos
 - [Caching Pitfalls](https://www.youtube.com/watch?v=wh98s0XhMmQ) - ByteByteGo
 - [Cache Systems Every Developer Should Know](https://www.youtube.com/watch?v=dGAgxozNWFE) - ByteByteGo
+- [How caffeine cache happened](https://www.youtube.com/watch?v=6tDgPkjEBXk) - Ben Manes
 - [Caching is hard](https://www.youtube.com/watch?v=jIA7z1gxuc8) - Hussein Nasser
 - [Cachine and Cache efficient algorithms](https://www.youtube.com/watch?v=xDKnMXtZKq8) - MIT Courseware 2018
 
