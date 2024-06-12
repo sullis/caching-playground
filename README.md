@@ -19,6 +19,7 @@
 - [ReadySet](https://readyset.io)
  
 # Articles
+- [Caching patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Is caching still necessary?](https://thenewstack.io/is-a-database-caching-layer-still-necessary/)
 - [Cache me if you can](https://systemdesignclassroom.substack.com/p/cache-me-if-you-can)
 - [Design of a modern cache](https://highscalability.com/design-of-a-modern-cache/) - Ben Manes / Caffeine
