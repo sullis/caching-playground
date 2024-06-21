@@ -31,6 +31,7 @@
 - [LinkedIn caching](https://newsletter.systemdesigncodex.com/p/how-linkedin-uses-caching-for-profile-reads)
 
 # Videos
+- [KubeCon 2023: Real-Time Caching for Cloud Native Applications with Redis](https://www.youtube.com/watch?v=zjsNZRvD2Aw) - Madelyn Olson, AWS
 - [Caching Pitfalls](https://www.youtube.com/watch?v=wh98s0XhMmQ) - ByteByteGo
 - [Cache Systems Every Developer Should Know](https://www.youtube.com/watch?v=dGAgxozNWFE) - ByteByteGo
 - [How caffeine cache happened](https://www.youtube.com/watch?v=6tDgPkjEBXk) - Ben Manes
