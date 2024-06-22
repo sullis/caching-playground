@@ -32,6 +32,7 @@
 
 # Videos
 - [KubeCon 2023: Real-Time Caching for Cloud Native Applications with Redis](https://www.youtube.com/watch?v=zjsNZRvD2Aw) - Madelyn Olson, AWS
+- [SRECon 2023: Cache Me If You Can: How Grafana Labs Scaled Up Their Memcached 42x](https://www.youtube.com/watch?v=OVL3fgFq_9g) - Danny Kopping, Grafana Labs
 - [Caching Pitfalls](https://www.youtube.com/watch?v=wh98s0XhMmQ) - ByteByteGo
 - [Cache Systems Every Developer Should Know](https://www.youtube.com/watch?v=dGAgxozNWFE) - ByteByteGo
 - [How caffeine cache happened](https://www.youtube.com/watch?v=6tDgPkjEBXk) - Ben Manes
