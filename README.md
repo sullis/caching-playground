@@ -41,3 +41,9 @@
 - [Caching is hard](https://www.youtube.com/watch?v=jIA7z1gxuc8) - Hussein Nasser
 - [Caching and Cache efficient algorithms](https://www.youtube.com/watch?v=xDKnMXtZKq8) - MIT Courseware 2018
 - [Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q) - Scott Mansfield
+
+# Memes
+
+
+![C2A94AAC-A747-4F5F-BC68-859F6836B149_1_102_o](https://github.com/sullis/caching-playground/assets/30938/ffc882c0-a1aa-4884-a52e-cc8668d2637f)
+
