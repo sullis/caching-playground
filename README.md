@@ -5,6 +5,7 @@
 # Java libraries
 - [Caffeine](https://github.com/ben-manes/caffeine)
 - [Netflix EVCache](https://github.com/netflix/evcache)
+- [infinispan](https://github.com/infinispan/infinispan)
 - [Guava caches](https://github.com/google/guava/wiki/CachesExplained)
 - [OpenRewrite Maven POM Cache](https://github.com/openrewrite/rewrite/tree/main/rewrite-maven/src/main/java/org/openrewrite/maven/cache)
 - [ohc](https://github.com/snazy/ohc) - Java large offheap cache
