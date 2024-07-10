@@ -20,6 +20,7 @@
 - [ReadySet](https://readyset.io)
  
 # Articles
+- [Warpstream distributed cache](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
 - [Caching patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Is caching still necessary?](https://thenewstack.io/is-a-database-caching-layer-still-necessary/)
 - [Cache me if you can](https://systemdesignclassroom.substack.com/p/cache-me-if-you-can)
