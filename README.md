@@ -11,6 +11,7 @@
 - [ohc](https://github.com/snazy/ohc) - Java large offheap cache
 - [expiringmap](https://github.com/jhalterman/expiringmap)
 - [Spring Boot caching](https://docs.spring.io/spring-boot/reference/io/caching.html)
+- [jujiu](https://github.com/jcouyang/jujiu) - Scala caching library
 
 # Non-Java caching
 - [FusionCache](https://github.com/ZiggyCreatures/FusionCache)
