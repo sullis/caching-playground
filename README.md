@@ -35,7 +35,7 @@
 
 # Videos
 - [Caching beyond simple put and gets](https://www.youtube.com/watch?v=dhBai8JMFdc) - Jakub Marchwicki @ Devoxx 2022
-- [Keep Your Cache Always Fresh with Debezium]() - Gunnar Morling, Devoxx Belgium 2022 ([slides](https://speakerdeck.com/gunnarmorling/keep-your-cache-always-fresh-with-debezium-current-22)) and ([code](https://github.com/debezium/debezium-examples/tree/main/distributed-caching)) 
+- [Keep Your Cache Always Fresh with Debezium](https://www.youtube.com/watch?v=zOOFMHAjoPI) - Gunnar Morling, Devoxx Belgium 2022 ([slides](https://speakerdeck.com/gunnarmorling/keep-your-cache-always-fresh-with-debezium-current-22)) and ([code](https://github.com/debezium/debezium-examples/tree/main/distributed-caching)) 
 - [KubeCon 2023: Real-Time Caching for Cloud Native Applications with Redis](https://www.youtube.com/watch?v=zjsNZRvD2Aw) - Madelyn Olson, AWS
 - [SRECon 2023: Cache Me If You Can: How Grafana Labs Scaled Up Their Memcached 42x](https://www.youtube.com/watch?v=OVL3fgFq_9g) - Danny Kopping, Grafana Labs
 - [Caching Pitfalls](https://www.youtube.com/watch?v=wh98s0XhMmQ) - ByteByteGo
