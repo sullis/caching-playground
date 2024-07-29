@@ -19,7 +19,10 @@
  
 # SQL Caching
 - [ReadySet](https://readyset.io)
- 
+
+# S3 Express One Zone as a caching layer
+- [Clickhouse Cloud](https://aws.amazon.com/blogs/storage/clickhouse-cloud-amazon-s3-express-one-zone-making-a-blazing-fast-analytical-database-even-faster/)
+
 # Articles
 - [Warpstream distributed cache](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
 - [Caching patterns](https://newsletter.systemdesign.one/p/caching-patterns)
