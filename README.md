@@ -48,6 +48,7 @@
 - [Caching is hard](https://www.youtube.com/watch?v=jIA7z1gxuc8) - Hussein Nasser
 - [Caching and Cache efficient algorithms](https://www.youtube.com/watch?v=xDKnMXtZKq8) - MIT Courseware 2018
 - [Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q) - Scott Mansfield
+- [System Design interview:  Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
 
 # Memes
 
