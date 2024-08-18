@@ -38,6 +38,7 @@
 - [SIEVE](https://brooker.co.za/blog/2023/12/15/sieve.html)
 
 # Videos
+- [7 Reasons Not to Put an External Cache in Front of Your Database](https://www.youtube.com/watch?v=H0srRGuxdsM)
 - [Caching beyond simple put and gets](https://www.youtube.com/watch?v=dhBai8JMFdc) - Jakub Marchwicki @ Devoxx 2022
 - [Keep Your Cache Always Fresh with Debezium](https://www.youtube.com/watch?v=zOOFMHAjoPI) - Gunnar Morling, Devoxx Belgium 2022 ([slides](https://speakerdeck.com/gunnarmorling/keep-your-cache-always-fresh-with-debezium-current-22)) and ([code](https://github.com/debezium/debezium-examples/tree/main/distributed-caching)) 
 - [KubeCon 2023: Real-Time Caching for Cloud Native Applications with Redis](https://www.youtube.com/watch?v=zjsNZRvD2Aw) - Madelyn Olson, AWS
