@@ -24,6 +24,7 @@
 - [Clickhouse Cloud](https://aws.amazon.com/blogs/storage/clickhouse-cloud-amazon-s3-express-one-zone-making-a-blazing-fast-analytical-database-even-faster/)
 
 # Articles
+- [Global caching system at Netflix](https://www.infoq.com/articles/netflix-global-cache/)
 - [Warpstream distributed cache](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
 - [Caching patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Is caching still necessary?](https://thenewstack.io/is-a-database-caching-layer-still-necessary/)
