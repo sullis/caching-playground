@@ -16,7 +16,15 @@
 # Non-Java caching
 - [FusionCache](https://github.com/ZiggyCreatures/FusionCache)
 - [cachemon / sieve](https://github.com/cacheMon)
- 
+
+# Netflix evcache
+- [Building a Global Caching System at Netflix](https://www.infoq.com/articles/netflix-global-cache/)
+- [OSS EVCache](https://github.com/netflix/evcache)
+- [video: caching at Netflix](https://www.youtube.com/watch?v=bnoK52IV3KE)
+- [aws reinvent: multi-Region cache replication](https://www.youtube.com/watch?v=85TiFrDhCR4)
+- [Caching at Netflix: the hidden microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q)
+
+- 
 # SQL Caching
 - [ReadySet](https://readyset.io)
 
