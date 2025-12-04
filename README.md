@@ -28,6 +28,7 @@
 # LiquidCache
 - [pdf](https://www.vldb.org/pvldb/vol18/p5662-hao.pdf)
 - [what is liquidcache](https://what-is-liquid-cache.xiangpeng.systems/#/title-slide)
+- [readme](https://github.com/XiangpengHao/liquid-cache/blob/main/README.md)
 
 # SQL Caching
 - [ReadySet](https://readyset.io)
