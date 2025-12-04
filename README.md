@@ -25,6 +25,10 @@
 - [aws reinvent: multi-Region cache replication](https://www.youtube.com/watch?v=85TiFrDhCR4)
 - [Caching at Netflix: the hidden microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q) - StrangeLoop 2016
 
+# LiquidCache
+- [pdf](https://www.vldb.org/pvldb/vol18/p5662-hao.pdf)
+
+
 # SQL Caching
 - [ReadySet](https://readyset.io)
 
