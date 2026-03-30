@@ -66,6 +66,7 @@
 - [Caching and Cache efficient algorithms](https://www.youtube.com/watch?v=xDKnMXtZKq8) - MIT Courseware 2018
 - [Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q) - Scott Mansfield
 - [System Design interview:  Distributed Cache](https://www.youtube.com/watch?v=iuqZvajTOyA)
+- [Caching in System Design Interviews](https://www.youtube.com/watch?v=1NngTUYPdpI) - Hello Interview
 
 # Memes
 
